@@ -11,4 +11,5 @@
 module purge
 module load nvidia-hpc-sdk
 
-./CUDA
+./p1
+./p2
